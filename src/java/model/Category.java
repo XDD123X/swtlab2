@@ -11,7 +11,7 @@ package model;
 public class Category {
     
     private int id;
-    private int name;
+    private String name;
 
     public Category(String name) {
         this.name = name;
