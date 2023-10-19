@@ -15,10 +15,6 @@
     </head>
     <body>
 
-        
-        <%--<c:if test="${requestScope.chart == 1}">--%>
-        <!--<canvas id="orderPerDay-bar-chart" width="800" height="450"></canvas>-->
-        <%--</c:if>--%>
         <div style="width: 30%; height: 30%">
         <canvas id="orderPerDay-bar-chart" width="800" height="450"></canvas>
         </div>
